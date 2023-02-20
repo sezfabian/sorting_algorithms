@@ -36,6 +36,6 @@ void insertion_sort_list(listint_t **list)
 			print_list(*list);
 		}
 		mylist = mylist->next;
-    }
+	}
 }
 
